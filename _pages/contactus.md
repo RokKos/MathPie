@@ -4,7 +4,7 @@ title: Contact Us
 include_in_header: true
 ---
 
-# Constact US
+# Contact US
 
 You are:
 
