@@ -16,6 +16,6 @@ Our state-of-the-art machine learning algorithm spots your knowledge gaps like a
 
 
 ### Why do we think that mobile app is a good idea?  
-Because every 3rd schooler already regularly uses apps for studying and even more will in the future
+Because every 3rd schooler already regularly uses apps for studying and even more will in the future.
 
 <br>
