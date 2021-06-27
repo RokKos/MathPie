@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: Contact Us
 include_in_header: true
 ---
 
