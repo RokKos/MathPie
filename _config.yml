@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/mathpie_logo_04.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Math Pie                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : FREE tutor in your Pocket                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Making Math Achievable
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
