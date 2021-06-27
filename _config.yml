@@ -39,13 +39,13 @@ features                                  :
     description                           : Expand people opportunities by making science as enjoyable as eating your favourite pie.
     fontawesome_icon_name                 : star
     
-  - title                                 : Our Values
-    description                           : Be a change you want to see in the world!
-    fontawesome_icon_name                 : globe
-
   - title                                 : Our Solution
     description                           : Individualized approach to tutoring powered by AI technology on your phone
     fontawesome_icon_name                 : play-circle
+    
+  - title                                 : Our Values
+    description                           : Be a change you want to see in the world!
+    fontawesome_icon_name                 : globe
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
