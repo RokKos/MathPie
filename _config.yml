@@ -35,12 +35,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Our mission
+  - title                                 : Our vision
     description                           : Expand people opportunities by making science as enjoyable as eating your favourite pie.
     fontawesome_icon_name                 : star
     
+  - title                                 : Our mission
+    description                           : To make math understandable and the learning process enjoyable even for people who do not like math.
+    fontawesome_icon_name                 : bullhorn
+    
   - title                                 : Our Solution
-    description                           : Individualized approach to tutoring powered by AI technology on your phone
+    description                           : Individualized approach to tutoring powered by AI technology on your phone.
     fontawesome_icon_name                 : play-circle
     
   - title                                 : Our Core Value
