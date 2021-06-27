@@ -11,7 +11,7 @@ Our team consists of:
 - Jože - aerodynamics engineer and math tutor 
 - Rok - experienced game developer.
 
-![image info](assets/TeamPhoto.png)
+![image info](assets/TeamPicture.png)
 
 <br>
 
