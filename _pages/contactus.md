@@ -14,4 +14,4 @@ You are:
 
 - interested in what we are doing and want to learn more?
 
-Feel free to contact us at [mathpie.office@gmail.com](mathpie.office@gmail.com)!
+Feel free to contact us at [mathpie.office@gmail.com](mailto:mathpie.office@gmail.com)!
