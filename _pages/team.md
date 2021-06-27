@@ -6,9 +6,9 @@ include_in_header: true
 
 # Team
 Our team consists of:
-- Iris - financial mathematician
+- Iris - financial mathematician,
 - Anastasia - machine learning expert, 
-- Jože - aerodynamics engineer and math tutor 
+- Jože - aerodynamics engineer and math tutor,
 - Rok - experienced game developer.
 
 ![image info](../assets/TeamPicture.png)
@@ -16,8 +16,7 @@ Our team consists of:
 <br>
 
 ## Experience
-Together we have more than 70 years of experience of solving math problems and helping others with it and we want to help even more people that is why we need
-
+Together we have more than 70 years of experience of solving math problems and helping others with it and we want to help even more people that is why we need.
 <br>
 
 ## Believe
