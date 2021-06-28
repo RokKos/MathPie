@@ -5,10 +5,10 @@ include_in_header: true
 ---
 
 # Team
-<p align="center">
-  
+
 ![Iris](../assets/MathPieTeam_Iris.jfif)
 
+<p align="center">
 Iris Grže - Project leader
 <br>
 <a href="https://www.linkedin.com/in/irisgrze/">
@@ -16,10 +16,9 @@ Iris Grže - Project leader
 </a>
 </p>
 
-<p align="center">
-
 ![Anastasia](../assets/MathPieTeam_Anastasia.jfif)
 
+<p align="center">
 Anastasia Pustozerova - Smart System Developer
 <br>
 <a href="https://www.linkedin.com/in/apustozerova/">
@@ -27,9 +26,9 @@ Anastasia Pustozerova - Smart System Developer
 </a>
 </p>
 
-<p align="center">
 ![Jože](../assets/MathPieTeam_Joze.jfif)
 
+<p align="center">
 Jože Bajuk - Content and App Developer
 <br>
 <a href="https://www.linkedin.com/in/joze-bajuk/">
@@ -37,9 +36,10 @@ Jože Bajuk - Content and App Developer
 </a>
 </p>
 
-<p align="center">
+
 ![Rok](../assets/MathPieTeam_Rok.jfif)
 
+<p align="center">
 Rok Kos - Main App Developer
 <br>
 <a href="https://www.linkedin.com/in/rok-kos/">
