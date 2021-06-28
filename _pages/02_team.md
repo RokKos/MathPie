@@ -7,19 +7,43 @@ include_in_header: true
 # Team
 ![Iris](../assets/MathPieTeam_Iris.jfif)
 
-Iris Grže - Project leader - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irisgrze/)
+<p align="center">
+Iris Grže - Project leader
+<br>
+<a href="https://www.linkedin.com/in/irisgrze/">
+<img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+</a>
+</p>
 
 ![Anastasia](../assets/MathPieTeam_Anastasia.jfif)
 
-Anastasia Pustozerova - Smart System Developer - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apustozerova/)
+<p align="center">
+Anastasia Pustozerova - Smart System Developer
+<br>
+<a href="https://www.linkedin.com/in/apustozerova/">
+<img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+</a>
+</p>
 
 ![Jože](../assets/MathPieTeam_Joze.jfif)
 
-Jože Bajuk - Content and App Developer - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joze-bajuk/)
+<p align="center">
+Jože Bajuk - Content and App Developer
+<br>
+<a href="https://www.linkedin.com/in/joze-bajuk/">
+<img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+</a>
+</p>
 
 ![Rok](../assets/MathPieTeam_Rok.jfif)
 
-Rok Kos - Main App Developer - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rok-kos/)
+<p align="center">
+Rok Kos - Main App Developer
+<br>
+<a href="https://www.linkedin.com/in/rok-kos/">
+<img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+</a>
+</p>
 
 <br>
 
