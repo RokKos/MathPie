@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Our USP
+title: About
 include_in_header: true
 ---
 
-# USP
+# What is MathPie?
 MathPie provides real life examples with step-by-step solutions, helping students to develop the necessary problem solving skills.
 
 <br>
