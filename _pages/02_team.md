@@ -5,13 +5,37 @@ include_in_header: true
 ---
 
 # Team
-Our team consists of:
-- Iris - financial mathematician,
-- Anastasia - machine learning expert, 
-- Jože - aerodynamics engineer and math tutor,
-- Rok - experienced game developer.
+![Iris](../assets/MathPieTeam_Iris.jfif)
 
-![image info](../assets/TeamPicture.png)
+Iris Grže
+
+Project leader
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irisgrze/)
+
+![Anastasia](../assets/MathPieTeam_Anastasia.jfif)
+
+Anastasia Pustozerova
+
+Smart System Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apustozerova/)
+
+![Jože](../assets/MathPieTeam_Joze.jfif)
+
+Jože Bajuk
+
+Content and App Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joze-bajuk/)
+
+![Rok](../assets/MathPieTeam_Rok.jfif)
+
+Rok Kos
+
+Main App Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rok-kos/)
 
 <br>
 
@@ -21,6 +45,7 @@ Together we have more than 70 years of experience of solving math problems and h
 
 ## Believe
 We all have passion for math and the most importantly the great group synergy. We are convinced that MathPie will be an impactful project, helping many people to understand math better. It is only the matter of time.
+<br>
 
-
+![Iris](../assets/TeamPicture.png)
 
