@@ -5,7 +5,9 @@ include_in_header: true
 ---
 
 # What is MathPie?
-MathPie provides real life examples with step-by-step solutions, helping students to develop the necessary problem solving skills.
+MathPie is an app that helps people train their math skills. Many students are struggling with mathematics. Conducting interviews with teachers we found that solving math problems is the key to understanding the subject. We decided to create a math tutor which would be available and accessible at any time.  After all, a  student is at his/her best when he/she wants to learn.
+
+MathPie provides real life examples with step-by.step solutions, helping students to develop the necessary problem solving skills.
 
 <br>
 
