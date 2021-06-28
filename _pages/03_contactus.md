@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Contact Us
+title: Contact us
 include_in_header: true
 ---
 
-# Contact US
+# Contact us
 
-You are:
+Are you:
 
 - a student and want to try out the prototype?
 
