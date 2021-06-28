@@ -11,7 +11,7 @@ include_in_header: true
 Iris Grže - Project leader
 <br>
 <a href="https://www.linkedin.com/in/irisgrze/">
-<img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
@@ -21,7 +21,7 @@ Iris Grže - Project leader
 Anastasia Pustozerova - Smart System Developer
 <br>
 <a href="https://www.linkedin.com/in/apustozerova/">
-<img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
@@ -31,7 +31,7 @@ Anastasia Pustozerova - Smart System Developer
 Jože Bajuk - Content and App Developer
 <br>
 <a href="https://www.linkedin.com/in/joze-bajuk/">
-<img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
@@ -41,7 +41,7 @@ Jože Bajuk - Content and App Developer
 Rok Kos - Main App Developer
 <br>
 <a href="https://www.linkedin.com/in/rok-kos/">
-<img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
