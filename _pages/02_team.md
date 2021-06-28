@@ -16,7 +16,7 @@ Iris Grže - Project leader
 </a>
 </p>
 
-![Anastasia](../assets/MathPieTeam_Anastasia.jfif)
+<img src="../assets/MathPieTeam_Anastasia.jfif" width="800" height="800">
 
 <p align="center">
 Anastasia Pustozerova - Smart System Developer
@@ -26,7 +26,7 @@ Anastasia Pustozerova - Smart System Developer
 </a>
 </p>
 
-![Jože](../assets/MathPieTeam_Joze.jfif)
+<img src="../assets/MathPieTeam_Joze.jfif" width="800" height="800">
 
 <p align="center">
 Jože Bajuk - Content and App Developer
@@ -36,8 +36,7 @@ Jože Bajuk - Content and App Developer
 </a>
 </p>
 
-
-![Rok](../assets/MathPieTeam_Rok.jfif)
+<img src="../assets/MathPieTeam_Rok.jfif" width="800" height="800">
 
 <p align="center">
 Rok Kos - Main App Developer
