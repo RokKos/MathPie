@@ -44,7 +44,7 @@ Together we have more than 70 years of experience of solving math problems and h
 <br>
 
 ## Believe
-We all have passion for math and the most importantly the great group synergy. We are convinced that MathPie will be an impactful project, helping many people to understand math better. It is only the matter of time.
+We have passion for math and a great group synergy which is the key for making MathPie an impactful project.
 <br>
 
 ![Iris](../assets/TeamPicture.png)
