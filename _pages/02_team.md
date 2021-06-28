@@ -40,7 +40,10 @@ Main App Developer
 <br>
 
 ## Experience
-Together we have more than 70 years of experience of solving math problems and helping others with it and we want to help even more people that is why we need.
+Together we have more than 70 years of experience with math! We always enjoyed helping others with it and now we want to help even more people to understand, use and grow fond of mathematics.
+
+Among other things, Joze and Rok each have 5 years of tutoring experience and Iris and Anastasia have Bachelor's degrees in mathematics.
+
 <br>
 
 ## Believe
